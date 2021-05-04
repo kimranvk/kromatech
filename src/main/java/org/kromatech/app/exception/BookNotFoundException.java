@@ -1,4 +1,4 @@
-package org.smartdubai.app.exception;
+package org.kromatech.app.exception;
 
 public class BookNotFoundException extends RuntimeException {
 

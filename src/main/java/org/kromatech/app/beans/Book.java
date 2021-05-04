@@ -1,4 +1,4 @@
-package org.smartdubai.app.beans;
+package org.kromatech.app.beans;
 
 
 import javax.persistence.Entity;

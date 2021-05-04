@@ -1,6 +1,6 @@
-package org.smartdubai.app.repository;
+package org.kromatech.app.repository;
 
-import org.smartdubai.app.beans.BookType;
+import org.kromatech.app.beans.BookType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
